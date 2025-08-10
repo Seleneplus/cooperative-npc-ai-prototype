@@ -9,14 +9,14 @@ The project demonstrates **multi-agent collaboration**, **reinforcement learning
 
 ## Project Structure
 
-src/
-├── 01_replay_buffer.py      # Experience Replay Buffer  
-├── 02_dqn.py                # DQN Model  
-├── 03_agent.py              # Agent logic (movement, decision-making, secret exchange)  
-├── 04_environment.py        # Grid environment simulation  
-├── 05_train.py              # Training script  
-├── 06_test.py               # Testing script  
-├── 07_visualization.py      # Visualization of results  
+src
+01_replay_buffer.py      # Experience Replay Buffer  
+02_dqn.py                # DQN Model  
+03_agent.py              # Agent logic (movement, decision-making, secret exchange)  
+04_environment.py        # Grid environment simulation  
+05_train.py              # Training script  
+06_test.py               # Testing script  
+07_visualization.py      # Visualization of results  
 
 
 
